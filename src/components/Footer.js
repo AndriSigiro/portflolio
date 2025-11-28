@@ -29,16 +29,6 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
                 href="https://www.linkedin.com/in/andri-sigiro-6620722b2"
                 style={{ color: "white" }}
                 target="_blank" 
@@ -49,7 +39,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/soumyajit4419"
+                href="https://www.instagram.com/andri_exaudi/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
