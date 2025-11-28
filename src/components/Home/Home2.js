@@ -4,7 +4,6 @@ import Tilt from "react-parallax-tilt";
 import '../../App.css';
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
