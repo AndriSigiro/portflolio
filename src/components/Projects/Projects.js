@@ -8,6 +8,7 @@ import editor from "../../Assets/Projects/diary.png";
 import chatify from "../../Assets/Projects/church.png";
 import suicide from "../../Assets/Projects/bem.png";
 import bitsOfCode from "../../Assets/Projects/cafe.jpg";
+import monitor from "../../Assets/Projects/monitor.jpg";
 
 function Projects() {
   return (
@@ -77,6 +78,16 @@ function Projects() {
               isBlog={false}
               title="Mobile Application Development for Fertile Chicken Egg Detection System Using IoT-Based deeplearning"
               description="A mobile application was developed for a fertile chicken egg detection system using IoT and deep learning technology. The application connects to an IoT device that automatically scans eggs and sends data to a server for analysis using a deep learning model. Detection results, such as fertility levels, egg quality, and embryo development status, can be monitored directly through the mobile application."
+              ghLink="https://github.com/AndriSigiro/Tugas-Akhir"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={monitor}
+              isBlog={false}
+              title="Monitoring Number of People"
+              description="An IoT system for monitoring the number of people in a room in real time.
+The system integrates hardware sensors and computer vision technology to accurately detect and count individuals entering or leaving the room. All collected data is processed automatically and presented through an informative, user-friendly dashboard. This enables administrators to track room occupancy, analyze usage patterns, and make better decisions related to safety, energy efficiency, and space management."
               ghLink="https://github.com/AndriSigiro/Tugas-Akhir"
             />
           </Col>

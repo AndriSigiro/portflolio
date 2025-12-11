@@ -38,18 +38,16 @@ function Experience() {
               location="Jakarta, Indonesia"
               type="Full-time"
               description={[
-                "Developed and maintained scalable web applications using Laravel 10+ and React.js",
+                "Developed and maintained scalable web applications using Laravel 10+",
                 "Built robust RESTful APIs with Laravel, MySQL, and Redis caching",
                 "Implemented Laravel authentication with Sanctum, Passport, and role-based access control",
                 "Created real-time features using Laravel Broadcasting, Pusher, and WebSockets",
                 "Optimized application performance by 40% through Laravel Queue, Eloquent optimization, and CDN",
               ]}
               skills={[
-                "React.js",
-                "Node.js",
-                "MongoDB",
-                "Express.js",
-                "Docker",
+                "Laravel",
+                "Golang",
+                "MySQL",
               ]}
               logo={winnicode} // ✅ LOCAL LOGO
             />
@@ -63,21 +61,19 @@ function Experience() {
               location="Toba, Indonesia"
               type="Freelance"
               description={[
-                "Developed BEM IT DEL website using React.js and Next.js 14",
+                "Developed BEM IT DEL website using React.js and Next.js",
                 "Implemented Server-Side Rendering (SSR) and Static Site Generation (SSG)",
                 "Built authentication system with NextAuth.js and user management",
-                "Created voting system, announcements, and member management features",
+                "Created announcements, and member management features",
                 "Integrated PostgreSQL database using Prisma ORM",
                 "Designed responsive UI with Tailwind CSS",
-                "Deployed to Vercel with CI/CD pipeline and SEO optimization",
               ]}
               skills={[
                 "React.js",
-                "Next.js 14",
-                "Prisma",
+                "Next.js",
+                "Gin",
                 "PostgreSQL",
                 "Tailwind CSS",
-                "Vercel",
               ]}
               logo={bemItdelLogo} // ✅ LOCAL LOGO (GANTI DARI URL)
             />
