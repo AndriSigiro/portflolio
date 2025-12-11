@@ -88,7 +88,7 @@ function Projects() {
               title="Monitoring Number of People"
               description="An IoT system for monitoring the number of people in a room in real time.
 The system integrates hardware sensors and computer vision technology to accurately detect and count individuals entering or leaving the room. All collected data is processed automatically and presented through an informative, user-friendly dashboard. This enables administrators to track room occupancy, analyze usage patterns, and make better decisions related to safety, energy efficiency, and space management."
-              ghLink="https://github.com/AndriSigiro/Tugas-Akhir"
+              ghLink="https://github.com/IOT-D3TI23/MC_iot.git"
             />
           </Col>
         </Row>
